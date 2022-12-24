@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## .env
-REACT_APP_SUPABASE_URL=<your_supabase_url>
+REACT_APP_SUPABASE_URL=<your_supabase_url>\
 REACT_APP_SUPABASE_ANON_KEY=<your_supabase_anon_key>
 
 ## Available Scripts
